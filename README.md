@@ -1,18 +1,37 @@
-## Getting Started
+# Vetor de Números em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+Programa que lê 5 números inteiros e faz as seguintes operações:
+- Encontra o maior número par
+- Encontra o menor número ímpar
+- Calcula o somatório total
+- Calcula a média dos valores
 
-The workspace contains two folders by default, where:
+## Como executar
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Compile os arquivos a partir da pasta `src`:
+javac vetores/service/VetorService.java
+javac vetores/app/ProgramaVetor.java
+3. Execute a classe principal:
+java vetores.app.ProgramaVetor
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Exemplo de uso
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Entrada: `5, 8, 3, 10, 7`
 
-## Dependency Management
+Saída:
+Maior número par: 10
+Menor número ímpar: 3
+Somatório: 33
+Média: 6,60
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Tecnologias
+
+- Java
+- VScode
+
+## Autor
+
+[Victor Huog]
+Informatica segundo periodo
