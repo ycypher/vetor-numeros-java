@@ -33,5 +33,5 @@ Média: 6,60
 
 ## Autor
 
-[Victor Huog]
+[Victor Hugo]
 Informatica segundo periodo
