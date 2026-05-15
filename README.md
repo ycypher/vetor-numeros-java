@@ -5,7 +5,7 @@
 Programa que lê 5 números inteiros e faz as seguintes operações:
 - Encontra o maior número par
 - Encontra o menor número ímpar
-- Calcula o somatório total
+- Calcula o soma total
 - Calcula a média dos valores
 
 ## Como executar
